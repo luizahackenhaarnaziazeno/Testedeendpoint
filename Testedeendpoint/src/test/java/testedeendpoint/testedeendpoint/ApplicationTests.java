@@ -1,10 +1,10 @@
-package e3_luizahackenhaarnaziazeno.e3;
+package testedeendpoint.testedeendpoint;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class E3ApplicationTests {
+class ApplicationTests {
 
 	@Test
 	void contextLoads() {

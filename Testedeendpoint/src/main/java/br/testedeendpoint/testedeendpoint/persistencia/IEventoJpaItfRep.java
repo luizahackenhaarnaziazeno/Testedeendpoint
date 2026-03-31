@@ -1,4 +1,4 @@
-package br.e3_luizahackenhaarnaziazeno.e3.persistencia;
+package br.testedeendpoint.testedeendpoint.persistencia;
 
 import java.util.List;
 import org.springframework.data.repository.CrudRepository;

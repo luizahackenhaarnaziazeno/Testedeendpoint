@@ -1,4 +1,4 @@
-package br.e3_luizahackenhaarnaziazeno.e3.persistencia;
+package br.testedeendpoint.testedeendpoint.persistencia;
 
 import jakarta.persistence.*;
 
