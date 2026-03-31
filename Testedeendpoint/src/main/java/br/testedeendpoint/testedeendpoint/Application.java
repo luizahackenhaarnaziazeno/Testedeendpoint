@@ -7,10 +7,10 @@ import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 
 @SpringBootApplication
 @EnableJpaRepositories(basePackages={"br.testedeendpoint.testedeendpoint"})
-public class E3Application {
+public class Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(E3Application.class, args);
+		SpringApplication.run(Application.class, args);
 	}
 
 }

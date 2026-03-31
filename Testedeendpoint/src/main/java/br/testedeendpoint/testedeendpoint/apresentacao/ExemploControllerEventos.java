@@ -1,7 +1,7 @@
 
-package br.testedendpoint.testedeendpoint.apresentacao;
+package br.testedeendpoint.testedeendpoint.apresentacao;
 
-import br.testedendpoint.testedeendpoint.persistencia.*;
+import br.testedeendpoint.testedeendpoint.persistencia.*;
 import java.util.*;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.server.ResponseStatusException;
